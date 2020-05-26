@@ -6,15 +6,15 @@ interface IBook {
 
 let books: Array<IBook> = [{
   isbn: "1",
-  author: "Robin Wieruch",
+  author: "Dimuthu Kasun",
   title: "The Road to React",
 },{
   isbn: "2",
-  author: "Kyle Simpson",
+  author: "Pathirana",
   title: "You Don't Know JS: Scope & Closures",
 },{
   isbn: "3",
-  author: "Andreas A. Antonopoulos",
+  author: "W.P.D. KASUN",
   title: "Mastering Bitcoin",
 }]
 
